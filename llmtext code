@@ -12,13 +12,13 @@
         }
         #output-text .token {
             transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
-            padding: 2px 4px;
+            padding: 20px 4px;
             border-radius: 4px;
             margin: 0 1px;
         }
         #output-text .token.highlight {
             background-color: #3b82f6; /* blue-500 */
-            color: white;
+            color: pink;
         }
     </style>
 </head>
